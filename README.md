@@ -1,7 +1,7 @@
 # web-app-project
-##DEPENDENCIES
+## DEPENDENCIES 
 express.js <br>
 mysql2 <br>
 hbs<br>
 
-#npm install the above dependencies!
+### npm install the above dependencies!
